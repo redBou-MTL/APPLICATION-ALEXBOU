@@ -1,18 +1,18 @@
 # APPLICATION-ALEXBOU
 
 
-- NAMES
+# NAMES
     -
     -
     -
     -
 
-- LANGUAGES (Using i18n or Else)
+# LANGUAGES (Using i18n or Else)
     - French
     - English
 
 
-- GOALS
+# GOALS
 
 
-- OBJECTIVES
+# OBJECTIVES
